@@ -1,0 +1,4 @@
+Run the code as
+	python Code2.py embedding_size batch_size learning_rate
+It will print loss for both outputs after every 10 training batch
+It will print hi-ka output every 50 training batches to file epoch_####
